@@ -1,7 +1,6 @@
 'use client';
 import React, { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
-import webgazer from 'webgazer';
 
 export default function EyeExperiencePage() {
   return (
